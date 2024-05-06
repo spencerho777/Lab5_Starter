@@ -1,5 +1,5 @@
 # Lab 5 - Starter
-Spencer Ho
+Name: Spencer Ho
 
 1. Testing the entire messaging feature of an application would not be good for a unit test, as there are a lot of interacting components which would not pinpoint a potential problem.
 
